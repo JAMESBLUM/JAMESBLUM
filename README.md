@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edgar Rodríguez</h1>
-<h3 align="center">A frontent developer and UI Designer</h3>
+<h3 align="center">A front end developer and UI Designer</h3>
 
 - 🌱 I’m currently learning **React, Javascript**
 
